@@ -1,3 +1,5 @@
+Last updated on July 18, 2026.
+
 # 🐍 Python for AI
 
 > *"Mastering Python one concept at a time, with a focus on writing clean, scalable, and production-ready code for AI and Data Engineering."*
